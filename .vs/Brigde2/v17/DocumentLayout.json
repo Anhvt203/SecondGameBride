@@ -1,0 +1,339 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77DAA03E-3598-FC5B-70E2-66A725DC31B3}|Assembly-CSharp.csproj|f:\\gameunity\\learnhb\\game2\\brigde2\\assets\\_gamebrigde\\script\\bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DAA03E-3598-FC5B-70E2-66A725DC31B3}|Assembly-CSharp.csproj|solutionrelative:assets\\_gamebrigde\\script\\bot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DAA03E-3598-FC5B-70E2-66A725DC31B3}|Assembly-CSharp.csproj|F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\assets\\_gamebrigde\\script\\brick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DAA03E-3598-FC5B-70E2-66A725DC31B3}|Assembly-CSharp.csproj|solutionrelative:assets\\_gamebrigde\\script\\brick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DAA03E-3598-FC5B-70E2-66A725DC31B3}|Assembly-CSharp.csproj|f:\\gameunity\\learnhb\\game2\\brigde2\\assets\\_gamebrigde\\script\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DAA03E-3598-FC5B-70E2-66A725DC31B3}|Assembly-CSharp.csproj|solutionrelative:assets\\_gamebrigde\\script\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DAA03E-3598-FC5B-70E2-66A725DC31B3}|Assembly-CSharp.csproj|f:\\gameunity\\learnhb\\game2\\brigde2\\assets\\_gamebrigde\\script\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DAA03E-3598-FC5B-70E2-66A725DC31B3}|Assembly-CSharp.csproj|solutionrelative:assets\\_gamebrigde\\script\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DAA03E-3598-FC5B-70E2-66A725DC31B3}|Assembly-CSharp.csproj|F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\assets\\_gamebrigde\\script\\colorobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DAA03E-3598-FC5B-70E2-66A725DC31B3}|Assembly-CSharp.csproj|solutionrelative:assets\\_gamebrigde\\script\\colorobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DAA03E-3598-FC5B-70E2-66A725DC31B3}|Assembly-CSharp.csproj|F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\assets\\_gamebrigde\\script\\colorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DAA03E-3598-FC5B-70E2-66A725DC31B3}|Assembly-CSharp.csproj|solutionrelative:assets\\_gamebrigde\\script\\colorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DAA03E-3598-FC5B-70E2-66A725DC31B3}|Assembly-CSharp.csproj|F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\assets\\_gamebrigde\\script\\hideonplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DAA03E-3598-FC5B-70E2-66A725DC31B3}|Assembly-CSharp.csproj|solutionrelative:assets\\_gamebrigde\\script\\hideonplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DAA03E-3598-FC5B-70E2-66A725DC31B3}|Assembly-CSharp.csproj|F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\assets\\_gamebrigde\\script\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DAA03E-3598-FC5B-70E2-66A725DC31B3}|Assembly-CSharp.csproj|solutionrelative:assets\\_gamebrigde\\script\\levelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DAA03E-3598-FC5B-70E2-66A725DC31B3}|Assembly-CSharp.csproj|f:\\gameunity\\learnhb\\game2\\brigde2\\assets\\_gamebrigde\\script\\newstagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DAA03E-3598-FC5B-70E2-66A725DC31B3}|Assembly-CSharp.csproj|solutionrelative:assets\\_gamebrigde\\script\\newstagebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DAA03E-3598-FC5B-70E2-66A725DC31B3}|Assembly-CSharp.csproj|F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\assets\\_gamebrigde\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DAA03E-3598-FC5B-70E2-66A725DC31B3}|Assembly-CSharp.csproj|solutionrelative:assets\\_gamebrigde\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DAA03E-3598-FC5B-70E2-66A725DC31B3}|Assembly-CSharp.csproj|F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\assets\\_gamebrigde\\script\\playerbrick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DAA03E-3598-FC5B-70E2-66A725DC31B3}|Assembly-CSharp.csproj|solutionrelative:assets\\_gamebrigde\\script\\playerbrick.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DAA03E-3598-FC5B-70E2-66A725DC31B3}|Assembly-CSharp.csproj|f:\\gameunity\\learnhb\\game2\\brigde2\\assets\\_gamebrigde\\script\\stage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DAA03E-3598-FC5B-70E2-66A725DC31B3}|Assembly-CSharp.csproj|solutionrelative:assets\\_gamebrigde\\script\\stage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DAA03E-3598-FC5B-70E2-66A725DC31B3}|Assembly-CSharp.csproj|f:\\gameunity\\learnhb\\game2\\brigde2\\assets\\_gamebrigde\\script\\stair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DAA03E-3598-FC5B-70E2-66A725DC31B3}|Assembly-CSharp.csproj|solutionrelative:assets\\_gamebrigde\\script\\stair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DAA03E-3598-FC5B-70E2-66A725DC31B3}|Assembly-CSharp.csproj|F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\assets\\_gamebrigde\\script\\statemachine\\attackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DAA03E-3598-FC5B-70E2-66A725DC31B3}|Assembly-CSharp.csproj|solutionrelative:assets\\_gamebrigde\\script\\statemachine\\attackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DAA03E-3598-FC5B-70E2-66A725DC31B3}|Assembly-CSharp.csproj|f:\\gameunity\\learnhb\\game2\\brigde2\\assets\\_gamebrigde\\script\\statemachine\\idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DAA03E-3598-FC5B-70E2-66A725DC31B3}|Assembly-CSharp.csproj|solutionrelative:assets\\_gamebrigde\\script\\statemachine\\idlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DAA03E-3598-FC5B-70E2-66A725DC31B3}|Assembly-CSharp.csproj|F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\assets\\_gamebrigde\\script\\statemachine\\istate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DAA03E-3598-FC5B-70E2-66A725DC31B3}|Assembly-CSharp.csproj|solutionrelative:assets\\_gamebrigde\\script\\statemachine\\istate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77DAA03E-3598-FC5B-70E2-66A725DC31B3}|Assembly-CSharp.csproj|F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\assets\\_gamebrigde\\script\\statemachine\\patrolstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77DAA03E-3598-FC5B-70E2-66A725DC31B3}|Assembly-CSharp.csproj|solutionrelative:assets\\_gamebrigde\\script\\statemachine\\patrolstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 228,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\Assets\\_GameBrigde\\Script\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\_GameBrigde\\Script\\CameraFollow.cs",
+              "ToolTip": "F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\Assets\\_GameBrigde\\Script\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\_GameBrigde\\Script\\CameraFollow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T17:59:11.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Character.cs",
+              "DocumentMoniker": "F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\Assets\\_GameBrigde\\Script\\Character.cs",
+              "RelativeDocumentMoniker": "Assets\\_GameBrigde\\Script\\Character.cs",
+              "ToolTip": "F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\Assets\\_GameBrigde\\Script\\Character.cs",
+              "RelativeToolTip": "Assets\\_GameBrigde\\Script\\Character.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T17:59:04.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NewStageBox.cs",
+              "DocumentMoniker": "F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\Assets\\_GameBrigde\\Script\\NewStageBox.cs",
+              "RelativeDocumentMoniker": "Assets\\_GameBrigde\\Script\\NewStageBox.cs",
+              "ToolTip": "F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\Assets\\_GameBrigde\\Script\\NewStageBox.cs",
+              "RelativeToolTip": "Assets\\_GameBrigde\\Script\\NewStageBox.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T17:58:47.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\Assets\\_GameBrigde\\Script\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\_GameBrigde\\Script\\PlayerController.cs",
+              "ToolTip": "F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\Assets\\_GameBrigde\\Script\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\_GameBrigde\\Script\\PlayerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-16T13:03:51.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IdleState.cs",
+              "DocumentMoniker": "F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\Assets\\_GameBrigde\\Script\\StateMachine\\IdleState.cs",
+              "RelativeDocumentMoniker": "Assets\\_GameBrigde\\Script\\StateMachine\\IdleState.cs",
+              "ToolTip": "F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\Assets\\_GameBrigde\\Script\\StateMachine\\IdleState.cs",
+              "RelativeToolTip": "Assets\\_GameBrigde\\Script\\StateMachine\\IdleState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-18T03:23:27.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AttackState.cs",
+              "DocumentMoniker": "F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\Assets\\_GameBrigde\\Script\\StateMachine\\AttackState.cs",
+              "RelativeDocumentMoniker": "Assets\\_GameBrigde\\Script\\StateMachine\\AttackState.cs",
+              "ToolTip": "F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\Assets\\_GameBrigde\\Script\\StateMachine\\AttackState.cs",
+              "RelativeToolTip": "Assets\\_GameBrigde\\Script\\StateMachine\\AttackState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-12T14:24:02.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerBrick.cs",
+              "DocumentMoniker": "F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\Assets\\_GameBrigde\\Script\\PlayerBrick.cs",
+              "RelativeDocumentMoniker": "Assets\\_GameBrigde\\Script\\PlayerBrick.cs",
+              "ToolTip": "F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\Assets\\_GameBrigde\\Script\\PlayerBrick.cs",
+              "RelativeToolTip": "Assets\\_GameBrigde\\Script\\PlayerBrick.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-19T12:46:56.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HideOnPlay.cs",
+              "DocumentMoniker": "F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\Assets\\_GameBrigde\\Script\\HideOnPlay.cs",
+              "RelativeDocumentMoniker": "Assets\\_GameBrigde\\Script\\HideOnPlay.cs",
+              "ToolTip": "F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\Assets\\_GameBrigde\\Script\\HideOnPlay.cs",
+              "RelativeToolTip": "Assets\\_GameBrigde\\Script\\HideOnPlay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-12T14:23:06.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ColorObject.cs",
+              "DocumentMoniker": "F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\Assets\\_GameBrigde\\Script\\ColorObject.cs",
+              "RelativeDocumentMoniker": "Assets\\_GameBrigde\\Script\\ColorObject.cs",
+              "ToolTip": "F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\Assets\\_GameBrigde\\Script\\ColorObject.cs",
+              "RelativeToolTip": "Assets\\_GameBrigde\\Script\\ColorObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-12T14:21:45.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Brick.cs",
+              "DocumentMoniker": "F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\Assets\\_GameBrigde\\Script\\Brick.cs",
+              "RelativeDocumentMoniker": "Assets\\_GameBrigde\\Script\\Brick.cs",
+              "ToolTip": "F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\Assets\\_GameBrigde\\Script\\Brick.cs",
+              "RelativeToolTip": "Assets\\_GameBrigde\\Script\\Brick.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-12T14:07:33.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ColorController.cs",
+              "DocumentMoniker": "F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\Assets\\_GameBrigde\\Script\\ColorController.cs",
+              "RelativeDocumentMoniker": "Assets\\_GameBrigde\\Script\\ColorController.cs",
+              "ToolTip": "F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\Assets\\_GameBrigde\\Script\\ColorController.cs",
+              "RelativeToolTip": "Assets\\_GameBrigde\\Script\\ColorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-12T14:21:44.831Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 221,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Stair.cs",
+              "DocumentMoniker": "F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\Assets\\_GameBrigde\\Script\\Stair.cs",
+              "RelativeDocumentMoniker": "Assets\\_GameBrigde\\Script\\Stair.cs",
+              "ToolTip": "F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\Assets\\_GameBrigde\\Script\\Stair.cs",
+              "RelativeToolTip": "Assets\\_GameBrigde\\Script\\Stair.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T17:58:32.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Stage.cs",
+              "DocumentMoniker": "F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\Assets\\_GameBrigde\\Script\\Stage.cs",
+              "RelativeDocumentMoniker": "Assets\\_GameBrigde\\Script\\Stage.cs",
+              "ToolTip": "F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\Assets\\_GameBrigde\\Script\\Stage.cs",
+              "RelativeToolTip": "Assets\\_GameBrigde\\Script\\Stage.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T17:51:19.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IState.cs",
+              "DocumentMoniker": "F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\Assets\\_GameBrigde\\Script\\StateMachine\\IState.cs",
+              "RelativeDocumentMoniker": "Assets\\_GameBrigde\\Script\\StateMachine\\IState.cs",
+              "ToolTip": "F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\Assets\\_GameBrigde\\Script\\StateMachine\\IState.cs",
+              "RelativeToolTip": "Assets\\_GameBrigde\\Script\\StateMachine\\IState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-20T14:43:24.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bot.cs",
+              "DocumentMoniker": "F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\Assets\\_GameBrigde\\Script\\Bot.cs",
+              "RelativeDocumentMoniker": "Assets\\_GameBrigde\\Script\\Bot.cs",
+              "ToolTip": "F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\Assets\\_GameBrigde\\Script\\Bot.cs",
+              "RelativeToolTip": "Assets\\_GameBrigde\\Script\\Bot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-12T14:07:16.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PatrolState.cs",
+              "DocumentMoniker": "F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\Assets\\_GameBrigde\\Script\\StateMachine\\PatrolState.cs",
+              "RelativeDocumentMoniker": "Assets\\_GameBrigde\\Script\\StateMachine\\PatrolState.cs",
+              "ToolTip": "F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\Assets\\_GameBrigde\\Script\\StateMachine\\PatrolState.cs",
+              "RelativeToolTip": "Assets\\_GameBrigde\\Script\\StateMachine\\PatrolState.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-12T14:30:55.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LevelManager.cs",
+              "DocumentMoniker": "F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\Assets\\_GameBrigde\\Script\\LevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_GameBrigde\\Script\\LevelManager.cs",
+              "ToolTip": "F:\\GameUnity\\LearnHB\\Game2\\Brigde2\\Assets\\_GameBrigde\\Script\\LevelManager.cs",
+              "RelativeToolTip": "Assets\\_GameBrigde\\Script\\LevelManager.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAMwCUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-12T14:23:11.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
